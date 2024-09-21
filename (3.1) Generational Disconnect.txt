@@ -1,3 +1,5 @@
+[Lead-in] The first of the three cases I call the "generational split" case. 
+
 Consider a scenario involving two distinct generations in a community. Call the first language of the older generation L1x and the first language of the younger generation L1y. Suppose that both generations speak some L2 as a common second language in which they communicate, but only the elders speak L1x and only the young people speak L1y. Further suppose that the elders will be the last ones to speak L1x if the language is not transmitted to the younger generation. But for whatever reason, none of the younger generation is learning L1x.  
 
 In this situation, each generation is speaking their first language (L1_), and they have a mutual language (L2) for communication purposes. By Nowak’s lights, then, all is well. The elders have their autonomy via first language mastery and the younger generation has theirs. In terms of autonomy, the situation does not appear to be defective for either party. 
