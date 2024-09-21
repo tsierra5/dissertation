@@ -1,4 +1,4 @@
-[Lead-in] The first of the three cases I call the "generational split" case. 
+[~Lead-in] I call the first of the three cases I will present the "generational split" case. It reflects some of the characteristics of the real progression of language loss as it actually occurs, (with some artificialities, for the sake of theoretical tractability.)
 
 Consider a scenario involving two distinct generations in a community. Call the first language of the older generation L1x and the first language of the younger generation L1y. Suppose that both generations speak some L2 as a common second language in which they communicate, but only the elders speak L1x and only the young people speak L1y. Further suppose that the elders will be the last ones to speak L1x if the language is not transmitted to the younger generation. But for whatever reason, none of the younger generation is learning L1x.  
 
