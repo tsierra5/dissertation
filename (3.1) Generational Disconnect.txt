@@ -6,7 +6,7 @@
 
 ~[Upshot: expected view] Even in such an abstract case, it seems intuitive that from a revitalizationist or preservationist perspective, the situation is not ideal. L1x is a waning language, and thus the inclination would be to intervene with efforts toward language documentation and preservation, at the least. The true revitalizationist impulse would be to stimulate acquisition of L1x among the younger generation.
 
-[Upshot: different view on autonomy account] Perplexingly, however, a different conclusion is reached when adopting the autonomy-based view.    
+[Upshot: different view on autonomy account] Perplexingly, however, a different conclusion is reached when adopting the autonomy-based view. (Note: would prefer to re-word this. Just because his view doesn't cover everything doesn't mean it concludes that things are fine in the given case... I guess? I think I just want to take care of the scope of the 'not' here. The view does *not* motivate revitalization, but that doesn't mean it concludes revitalization should *not* occur.)
 
 [Revise^] In this situation, each generation is speaking their first language (L1_), and they have a mutual language (L2) for communication purposes. By Nowak’s lights, then, all is well. The elders have their autonomy via first language mastery and the younger generation has theirs. In terms of autonomy, the situation does not appear to be defective for either party.
 
