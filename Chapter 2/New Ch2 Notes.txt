@@ -27,3 +27,16 @@ So the general arc of the dissertation is-- the meat of what's going on with Now
 That means the second chapter is about showing what these generational concerns are and what good a potential language learner has to gain from participating in revitalization. What I will do in the second  chapter is motivate/illustrate from familial concerns, the whole ancestral disconnect. I'll explain in the introduction that part of the reason for this is because I want to argue that everyone who stands to gain therapeutic benefit from revitalization should be afforded the resources to engage in it. The considerations of therapeutic benefit mean that the threshold for worthwhileness is quite low-- as illustrated by my own stories. It also means that the standards for success on my conceptualization are whether such therapy is realized and to what extent. It also means that my considerations will apply primarily to individuals whose cultural inheritances have been disrupted by historical and/or generational trauma. But, some of what I say may apply even in situations where that isn't the case? (And, that might be a potential weakness of this argument, in the end...)
 
 The third chapter will then be a broadening of understanding the kinds of reasons community members have for participating in revitalization and what people stand to gain from it. There's way more than just family legacy at stake/to be gained. But all of those are reasons of a different kind from the academic interest of linguists, which I will characterize, and maybe muse a little bit on linguistic relativism as a way of making these disparate kinds of considerations talk to one another. 
+
+i. several ways differences could pan out:
+categorical difference in learning activities ->  split categorical output on revitalization, value judgement independent*
+value difference in learning activities -> categorical output independently determined
+categorical difference in learning activities ->  split categorical output on revitalization -> split value judgement*
+value difference in learning activities -> split value output on revitalization -> split categorical output
+
+*'s are positions i remain agnostic about, because I do not argue that there is a categorical difference here
+I think what I'm really doing here is trying to determine which fragemented position is compatible with which whole whole-chain position, but I don't really need to have that figured out here... I just can't stop obsessing over it. So here we're going to go with
+
+value difference in learning activities -> categorical output independently determined (in the dissertation, it is arbitrarily determined by the operant definition)
+
+and i suppose the deep question i don't know how to answer is whether a primitive difference either in category or value at the base level then has any affect on the other, at the base level. but now at that point i'm just doing metaphysics, which is not the point of the dissertation
